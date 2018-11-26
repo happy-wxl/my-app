@@ -1,0 +1,7 @@
+/public/
+/dist/
+/.vscode/
+package.json
+babel.config.js
+vue.config.js
+
